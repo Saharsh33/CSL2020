@@ -19,4 +19,6 @@ void buildFeatureVectors();
 void buildGraph();
 
 
+double computePairRecommendationScore(int cur, int i,
+                                      double Pmax, double Tmax, double Wmax);
 #endif // RECOMMENDATION_H
