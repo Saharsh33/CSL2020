@@ -6,7 +6,7 @@ using namespace std;
 
 #include "../Globals/Globals.h"
 #include "../SaveSong/SaveSong.h"
-#include "../Queue_Managment/QManage.h"
+#include "../Queue_Management/QManage.h"
 
 // play a song by id
 void playSong(int id);

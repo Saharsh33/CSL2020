@@ -5,7 +5,7 @@
 using namespace std;
 
 #include "../Globals/Globals.h"
-#include "../Artist_tokenization/Artist_tokenization.h"
+#include "../Artist_Tokenization/Artist_tokenization.h"
 #include "../GraphCache/GraphCache.h"
 #include "../String_helpers/String_helpers.h"
 

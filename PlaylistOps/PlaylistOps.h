@@ -8,7 +8,7 @@ using namespace std;
 #include "../SavePlaylist/SavePlaylist.h"
 #include "../PlaySong/PlaySong.h"
 #include "../SearchFunc/SearchFunc.h"
-#include "../Playlist_managment/playlist_managment.h"
+#include "../playlist_management/playlist_managment.h"
 
 void showPlaylists();
 

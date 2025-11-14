@@ -5,7 +5,7 @@
 using namespace std;
 
 #include "../Globals/Globals.h"
-#include "../Queue_Managment/QManage.h"
+#include "../Queue_Management/QManage.h"
 #include "../PlaySong/PlaySong.h"
 
 // go backward in queue
